@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-v0_8')
 
-df = pd.read_csv('class_3\housing\housing.csv')
+df = pd.read_csv('housing.csv')
 
 st.title("Jiao Ma")
 st.title("California Housing Data (1990)")
